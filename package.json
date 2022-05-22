@@ -1,9 +1,12 @@
 {
+  "homepage": "http://tchristc.github.io/QuickFlip",
   "name": "recipes-app",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "webpack --watch --mode production"
   },
   "keywords": [],
@@ -21,6 +24,7 @@
     "babel-loader": "^8.2.5",
     "babel-watch": "^7.7.0",
     "css-loader": "^6.7.1",
+    "gh-pages": "^4.0.0",
     "style-loader": "^3.3.1",
     "webpack": "^5.72.0",
     "webpack-cli": "^4.9.2"
