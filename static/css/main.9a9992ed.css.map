@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9a9992ed.css","mappings":"AAAA,kBAII,qBAAsB,CACtB,kBAAmB,CACnB,uBAAwB,CAHxB,YAIJ","sources":["css/site.css"],"sourcesContent":[".avatar-container\r\n{\r\n    /* width: 115px; */\r\n    padding: 10px;\r\n    border: 2px solid #000;\r\n    border-radius: 15px;\r\n    -moz-border-radius: 15px;\r\n}"],"names":[],"sourceRoot":""}

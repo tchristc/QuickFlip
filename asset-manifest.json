@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/QuickFlip/static/css/main.9a9992ed.css",
+    "main.js": "/QuickFlip/static/js/main.e4d3cc56.js",
+    "index.html": "/QuickFlip/index.html",
+    "main.9a9992ed.css.map": "/QuickFlip/static/css/main.9a9992ed.css.map",
+    "main.e4d3cc56.js.map": "/QuickFlip/static/js/main.e4d3cc56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a9992ed.css",
+    "static/js/main.e4d3cc56.js"
+  ]
+}
